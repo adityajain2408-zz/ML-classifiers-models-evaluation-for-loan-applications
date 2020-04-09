@@ -1,5 +1,5 @@
 # ML-classifiers-models-evaluation-for-loan-applications
-The project contains a Jupyter notebook on Python. 
+The project contains a Jupyter notebook leveraging Python 3.6 with scikit-learn. 
 
 A historical dataset from previous loan applications is loaded, data is cleaned, and different classification algorithm are applied on the data. 
 
